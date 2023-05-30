@@ -1,5 +1,4 @@
 # contest-reminder
-# Contest Pages
 
 Contest Pages is a web application that displays upcoming contests from many compitative programming contest like codeforces,atcoder,leetcode,codechef.
 Simple extension for lazy people like me ;)

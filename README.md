@@ -1,7 +1,9 @@
 # contest-reminder
 # Contest Pages
 
-Contest Pages is a web application that displays upcoming contests from AtCoder and Codeforces. It provides a visually appealing UI using React to enhance the user experience.
+Contest Pages is a web application that displays upcoming contests from many compitative programming contest like codeforces,atcoder,leetcode,codechef.
+Simple extension for lazy people like me ;)
+Currently deploying in firefox......
 
 ## Features
 
@@ -9,16 +11,6 @@ Contest Pages is a web application that displays upcoming contests from AtCoder 
 - Sorts the contests based on the start time in ascending order.
 - Clickable links to the contest pages for more details.
 
-
-## Usage
-
-1. Start the development server:
-
-2. Open your browser and visit [http://localhost:3000](http://localhost:3000).
-
-3. Click on the "Go to AtCoder Page" button to navigate to the AtCoder contest page.
-
-4. Click on the "Go to Codeforces Page" button to navigate to the Codeforces contest page.
 
 ## Folder Structure
 

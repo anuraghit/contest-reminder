@@ -25,7 +25,9 @@
     }
 
     button {
-      padding: 5px 10px;
+      display: inline-block;
+      padding: 10px 20px;
+      margin: 5px;
       border-radius: 4px;
       background-color: #007bff;
       color: #fff;
@@ -59,6 +61,7 @@
         opacity: 0;
         transform: translateY(-20px);
       }
+
       100% {
         opacity: 1;
         transform: translateY(0);
@@ -70,21 +73,12 @@
 <body>
   <div class="container">
     <h1>Coding Contest Reminder</h1>
-    <a href="atcoder.html"><button>Go to AtCoder Page</button></a>
-    <a href="codeforces.html"><button>Go to Codeforces Page</button></a>
-    <ul id="contestItems">
-      <li>
-        <a href="#">Contest 1</a>
-      </li>
-      <li>
-        <a href="#">Contest 2</a>
-      </li>
-      <li>
-        <a href="#">Contest 3</a>
-      </li>
-    </ul>
+    <a href="/atcoder/atcoder.html"><button>Go to AtCoder Page</button></a>
+    <a href="/codeforces/codeforces.html"><button>Go to Codeforces Page</button></a>
+    <a href="/leetcode/leetcode.html"><button>Go to leetcode Page</button></a>
+    <a href="/codechef/codechef.html"><button>Go to Codchef Page</button></a>
   </div>
-  <script src ="leetcode.js"></script>
+
 </body>
 
 </html>

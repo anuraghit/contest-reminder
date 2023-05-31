@@ -1,21 +1,21 @@
 {
-    "manifest_version": 2,
-    "name": "Coding Contest Reminder",
-    "version": "1.0",
-    "description": "A Firefox extension to remind you about coding contests",
-    "icons": {
-      "48": "icon.png"
+  "manifest_version": 2,
+  "name": "Coding Contest Reminder",
+  "version": "1.0",
+  "description": "A Firefox extension to remind you about coding contests",
+  "icons": {
+    "48": "icon.png",
+    "512": "icon.png"
+  },
+  "permissions": [
+    "notifications",
+    "http://*/*",
+    "https://*/*"
+  ],
+  "browser_action": {
+    "default_icon": {
+      "512": "icon.png"
     },
-    "permissions": [
-      "notifications",
-      "http://*/*",
-      "https://*/*"
-    ],
-    "browser_action": {
-      "default_icon": {
-        "512": "icon.png"
-      },
-      "default_popup": "index.html"
-    }
+    "default_popup": "index.html"
   }
-  
+}

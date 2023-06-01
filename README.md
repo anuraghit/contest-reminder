@@ -4,6 +4,8 @@ Contest Pages is a web application that displays upcoming contests from many com
 Simple extension for lazy people like me ;)
 Currently deploying in firefox......
 
+link - https://addons.mozilla.org/en-US/firefox/addon/coding-contest-reminder/
+
 ## Features
 
 - Fetches and displays upcoming contests from AtCoder and Codeforces.

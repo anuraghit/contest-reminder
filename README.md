@@ -24,7 +24,6 @@ link - https://addons.mozilla.org/en-US/firefox/addon/coding-contest-reminder/
 
 ## Technologies Used
 
-- React - JavaScript library for building user interfaces.
 - JavaScript - Programming language used for the application logic.
 - HTML - Markup language for structuring the web page.
 - CSS - Styling language for designing the UI.
